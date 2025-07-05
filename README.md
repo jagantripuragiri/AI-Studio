@@ -1,19 +1,15 @@
-# 🎨 AI Studio
+#  AI Studio
 
 A powerful Streamlit app for generating professional product ads using Bria AI's advanced image generation and manipulation APIs.
 
-## 🌟 Features
+##  Features
 
-- 🖼️ Generate HD product images from text prompts
-- 🎯 Remove backgrounds with custom colors
-- 🌅 Add realistic shadows
-- 🏠 Create lifestyle shots with text or reference images
-- ✨ AI-powered prompt enhancement
-- 📝 Optional CTA text overlay
-- 🎮 Intuitive UI controls
-- 💾 Easy image download
+-  Generate HD product images from text prompts
+-  Remove backgrounds 
+-  AI-powered prompt enhancement
+-  Easy image download
 
-## 🚀 Quick Start
+##  Quick Start
 
 1. Clone the repository:
 ```bash
@@ -36,7 +32,7 @@ BRIA_API_KEY=your_api_key_here
 streamlit run app.py
 ```
 
-## 💡 Usage
+##  Usage
 
 1. Enter a product description or upload an image
 2. Configure generation options in the sidebar:
@@ -50,7 +46,11 @@ streamlit run app.py
 
 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [Bria AI](https://bria.ai) for their powerful image generation APIs
-- [Streamlit](https://streamlit.io) for the amazing web framework 
+- [Streamlit](https://streamlit.io) for the amazing web framework
+
+## Interface 
+<img width="1440" alt="Screenshot 2025-07-05 at 7 26 13 PM" src="https://github.com/user-attachments/assets/c25a299a-2e06-49a0-b9e7-12be601329fe" />
+
